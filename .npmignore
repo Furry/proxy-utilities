@@ -1,0 +1,9 @@
+# Directories
+src/
+tests/
+
+# Files
+.gitignore
+readme.md
+tsconfig.json
+yarn-error.log
