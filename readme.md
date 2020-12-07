@@ -8,9 +8,9 @@
     <img src="https://discordapp.com/api/guilds/769020183540400128/widget.png?style=banner2" alt="Discord Banner 2"/>
 </a>
 
-![Discord Shield](https://img.shields.io/github/commit-activity/m/furry/2captcha)
-![Size](https://img.shields.io/bundlephobia/min/2captcha)
-![Downloads](https://img.shields.io/npm/dw/2captcha)
+![Discord Shield](https://img.shields.io/github/commit-activity/m/furry/proxy-utilities)
+![Size](https://img.shields.io/bundlephobia/min/proxy-utilities)
+![Downloads](https://img.shields.io/npm/dw/proxy-utilities)
 
 </div>
 
