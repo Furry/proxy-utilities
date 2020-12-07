@@ -7,6 +7,13 @@
   "scripts": {
     "go": "tsc && node ./tests/index.js"
   },
+  "keywords": [
+    "proxy",
+    "check",
+    "proxychecker",
+    "proxy-checker",
+    "proxies"
+  ],
   "dependencies": {
     "https-proxy-agent": "^5.0.0",
     "node-fetch": "^2.6.1"
